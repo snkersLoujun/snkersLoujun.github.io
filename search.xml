@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/07/22/hello-world/</url>
+    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>lifestyle</title>
+    <url>/2023/07/23/record_blog/</url>
+    <content><![CDATA[<h2 id="记录生活方式"><a href="#记录生活方式" class="headerlink" title="记录生活方式"></a>记录生活方式</h2><h3 id="你的职业"><a href="#你的职业" class="headerlink" title="你的职业"></a>你的职业</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">SSD固件开发</span><br></pre></td></tr></table></figure>
+
+<h3 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">成为更好的自己</span><br></pre></td></tr></table></figure>
+
+<h3 id="未来计划"><a href="#未来计划" class="headerlink" title="未来计划"></a>未来计划</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">年底存够10w</span><br></pre></td></tr></table></figure>
+
+<h3 id="知识探索"><a href="#知识探索" class="headerlink" title="知识探索"></a>知识探索</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">不断学习，为未来而筑地基</span><br></pre></td></tr></table></figure>
+
+
+]]></content>
+  </entry>
+</search>
